@@ -11,7 +11,7 @@ A full-stack parcel delivery application built with React, Node.js, Express, and
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structures
 
 ```
 vibe-delivery/
