@@ -75,7 +75,7 @@ vibe-delivery/
 
 ### Installation & Running
 
-#### 1. Backend Setup
+#### 1. Backend Setupes
 
 ```bash
 cd backend
