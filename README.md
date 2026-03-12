@@ -135,7 +135,7 @@ Response: { success: true, message: "API is running" }
 
 ### Authentication
 
-**Signup**
+**Signup page**
 ```
 POST /api/auth/signup
 Body: {
